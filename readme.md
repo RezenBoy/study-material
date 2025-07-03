@@ -1,4 +1,3 @@
-Here's a sample `README.md` file for your **Project Folder** that contains both **Python and Java implementations** of beginner to advanced basic projects. It's organized clearly and is ready to be dropped into your GitHub repo or project folder.
 
 ---
 
